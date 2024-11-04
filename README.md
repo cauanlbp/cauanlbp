@@ -1,5 +1,7 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner2.gif)
+<div align="center">
+    <img src="./banner2.gif" alt="cauanlbp Banner Image">
+</div>
 
 <!--Night Owl image-->
 <div>
