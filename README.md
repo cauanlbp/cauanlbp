@@ -31,7 +31,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -39,13 +39,13 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<!-- <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
+   -->
 <!-- <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
